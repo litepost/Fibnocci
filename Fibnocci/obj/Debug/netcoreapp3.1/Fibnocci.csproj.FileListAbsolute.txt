@@ -1,0 +1,13 @@
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\bin\Debug\netcoreapp3.1\Fibnocci.exe
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\bin\Debug\netcoreapp3.1\Fibnocci.deps.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\bin\Debug\netcoreapp3.1\Fibnocci.runtimeconfig.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\bin\Debug\netcoreapp3.1\Fibnocci.runtimeconfig.dev.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\bin\Debug\netcoreapp3.1\Fibnocci.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\bin\Debug\netcoreapp3.1\Fibnocci.pdb
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\obj\Debug\netcoreapp3.1\Fibnocci.csprojAssemblyReference.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\obj\Debug\netcoreapp3.1\Fibnocci.AssemblyInfoInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\obj\Debug\netcoreapp3.1\Fibnocci.AssemblyInfo.cs
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\obj\Debug\netcoreapp3.1\Fibnocci.csproj.CoreCompileInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\obj\Debug\netcoreapp3.1\Fibnocci.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\obj\Debug\netcoreapp3.1\Fibnocci.pdb
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Fibnocci\Fibnocci\obj\Debug\netcoreapp3.1\Fibnocci.genruntimeconfig.cache
